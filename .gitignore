@@ -1,0 +1,8 @@
+# Data
+data/*
+
+# Notebooks
+*.ipynb
+
+# Workspace
+*.code-workspace
