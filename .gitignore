@@ -6,3 +6,7 @@ data/*
 
 # Workspace
 *.code-workspace
+
+# python bytecode files
+__pycache__/
+*.pyc
