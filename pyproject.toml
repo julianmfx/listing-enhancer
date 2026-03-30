@@ -17,3 +17,8 @@ build-backend = "hatchling.build"
 
 [tool.hatch.build.targets.wheel]
 packages = ["utils"]
+
+[dependency-groups]
+dev = [
+    "nbconvert>=7.17.0",
+]
